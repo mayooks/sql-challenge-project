@@ -6,12 +6,17 @@ bin-release/
 
 # Other files and folders
 .settings/
+gp_keys.py
 
+__pycache__
+
+__pycache__/gp_keys.cpython-37.pyc
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
+*.pyc
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
